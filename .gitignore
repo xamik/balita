@@ -1,0 +1,8 @@
+#Exclude all of core files
+/bitrix/
+
+#Exclude default file storage directory
+/upload/
+
+#Exclude html template
+/html/

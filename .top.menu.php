@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Home",
+        "/index.php",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Categories",
+        "/blog/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "About",
+        "/about/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Contact",
+        "/contact/",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>
